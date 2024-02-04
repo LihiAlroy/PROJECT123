@@ -4,7 +4,7 @@ Welcome to the GitHub repository for our business website. This site is designed
 
 ## Viewing the Website
 
-Our website is published at `https://<alroy7>.github.io/<PROJECT123>/`. You can view it live by visiting this URL.
+Our website is published at https://lihialroy.github.io/PROJECT123/. You can view it live by visiting this URL.
 
 ## About the Website
 
